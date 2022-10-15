@@ -1,0 +1,110 @@
+body { scrollbar-arrow-color: #DDDDDD; scrollbar-3dlight-color: #111111; scrollbar-highlight-color: #555555; scrollbar-face-color: #333333; scrollbar-shadow-color: #111111; scrollbar-track-color: #000000; scrollbar-darkshadow-color: #111111}
+
+A:hover.snb { font-family: Arial, Helvetica, Geneva; font-size: 14px;  text-decoration: underline; color: #990000; }
+.snb, .snb td { color: #000099;  font-family: Arial, Helvetica, Geneva; font-size: 14px;   text-decoration: none;}
+
+A:hover.snl { font-family: Arial, Helvetica, Geneva; font-size: 14px;  text-decoration: underline; color: #ffcc00; }
+.snl, .snl td { color: #ff0000;  font-family: Arial, Helvetica, Geneva; font-size: 14px; font-weight:bold; text-decoration: none;}
+
+A:hover.snf { font-family: Arial, Helvetica, Geneva; font-size: 12px; color: #FFDD00; font-weight: bold;}
+.snf, .snf td { font-family: Arial, Helvetica, Geneva; font-size: 12px; color: #dddddd; text-decoration: none; font-weight: bold;}
+
+.yhtxt { font-family: Arial, Helvetica, Geneva; font-size: 14px; color: #fafafa ; text-decoration: none; }
+.yhtxtp { font-family: Arial, Helvetica, Geneva; font-size: 14px; color: #000000 ; text-decoration: none; }
+
+.yhscore1 { font-family: Tahoma, Arial, Helvetica, Geneva; font-size: 46px; font-weight: bold; color: #FF8800; text-decoration: none}
+.yhscore2 { font-family: Tahoma, Arial, Helvetica, Geneva; font-size: 22px; font-weight: bold; color: #FF8800; text-decoration: none}
+.yhscore3 { font-family: Arial, Helvetica, Geneva; font-size: 12px; font-weight: bold; color: #FF8800; text-decoration: none}
+.yhscore4 { font-family: Tahoma, Arial, Helvetica, Geneva; font-size: 36px; font-weight: bold; color: #FF8800; text-decoration: none}
+
+.gameheader { font-family: Tahoma, Arial, Helvetica; font-size: 28px; font-weight: bold; color: #FF9900; text-decoration: none}
+.yhleadheader { font-family: Tahoma, Arial, Helvetica; font-size: 24px; font-weight: bold; color: #FF9900; text-decoration: none}
+.yhheader { font-family: Tahoma, Arial, Helvetica; font-size: 18px; font-weight: bold; color: #FF9900; text-decoration: none}
+.yhheader2 { font-family: Tahoma, Arial, Helvetica; font-size: 14px; font-weight: bold; color: #FF9900; text-decoration: none}
+.yhheader3 { font-family: Tahoma, Arial, Helvetica; font-size: 11px; font-weight: bold; color: #FF9900; text-decoration: none}
+
+.yhheader11 { font-family: Arial, Helvetica, Geneva; font-size: 11px; font-weight: bold; color: #DDDDDD; text-decoration: none; line-height: 14px;}
+.yhheader12 { font-family: Arial, Helvetica, Geneva; font-size: 12px; font-weight: bold; color: #DDDDDD; text-decoration: none; line-height: 15px;}
+
+.yhyellow10 { font-family: Arial, Helvetica, Geneva; font-size: 10px; font-weight: bold; color: #FF9900; text-decoration: none;}
+.yhyellow11 { font-family: Arial, Helvetica, Geneva; font-size: 11px; font-weight: bold; color: #FF9900; text-decoration: none;}
+.yhyellow12 { font-family: Arial, Helvetica, Geneva; font-size: 12px; font-weight: bold; color: #FF9900; text-decoration: none;}
+.yhyellow13 { font-family: Arial, Helvetica, Geneva; font-size: 13px; font-weight: bold; color: #FF9900; text-decoration: none;}
+.yhyellow14 { font-family: Arial, Helvetica, Geneva; font-size: 14px; font-weight: bold; color: #FF9900; text-decoration: none;}
+.yhyellow15 { font-family: Arial, Helvetica, Geneva; font-size: 15px; font-weight: bold; color: #FF9900; text-decoration: none;}
+
+.yhtext { font-family: Arial, Geneva, Helvetica; text-decoration: none}
+.yhtext10 { font-family: Arial, Helvetica, Geneva; font-size: 10px; text-decoration: none}
+.yhtext11 { font-family: Arial, Helvetica, Geneva; font-size: 11px; text-decoration: none}
+.yhtext12 { font-family: Arial, Helvetica, Geneva; font-size: 12px; text-decoration: none}
+.yhtext13 { font-family: Arial, Helvetica, Geneva; font-size: 13px; text-decoration: none}
+.yhtext14 { font-family: Arial, Helvetica, Geneva; font-size: 14px; text-decoration: none}
+.yhtext15 { font-family: Arial, Helvetica, Geneva; font-size: 15px; text-decoration: none}
+.yhtext16 { font-family: Arial, Helvetica, Geneva; font-size: 16px; text-decoration: none}
+.yhtext17 { font-family: Arial, Helvetica, Geneva; font-size: 17px; text-decoration: none}
+
+.yhsearch { font-family: Arial, Helvetica, Geneva; font-size: 10px; color: #FFFFFF; text-decoration: none;}
+.yhposted { font-family: Arial, Helvetica, Geneva; font-size: 10px; color: #777777; text-decoration: none;}
+.checkprice { font-family: Arial, Helvetica, Geneva; font-size: 11px; color: #FF0000; text-decoration: none;}
+.yhprice { font-family: Arial, Helvetica, Geneva; font-size: 14px; font-weight: bold; color: #FF0000; text-decoration: none;}
+
+.yhnav11 { font-family: Arial, Helvetica, Geneva; font-size: 11px; color: #BBBBBB; font-weight: bold; text-decoration: none;}
+.yhnav12 { font-family: Arial, Helvetica, Geneva; font-size: 12px; color: #BBBBBB; font-weight: bold; text-decoration: none;}
+.yhnav11on { font-family: Arial, Helvetica, Geneva; font-size: 11px; color:#FFFFFF; font-weight: bold; text-decoration: none;}
+.yhnav12on { font-family: Arial, Helvetica, Geneva; font-size: 12px; color:#FFFFFF; font-weight: bold; text-decoration: none;}
+
+.yhlink { font-family: Arial, Geneva, Helvetica; text-decoration: none}
+.yhlinkb { font-family: Arial, Geneva, Helvetica; text-decoration: none ; font-weight: bold}
+.yhlink10 { font-family: Arial, Helvetica, Geneva; font-size: 10px; text-decoration: none;}
+.yhlink11 { font-family: Arial, Helvetica, Geneva; font-size: 11px; text-decoration: none;}
+.yhlink12 { font-family: Arial, Helvetica, Geneva; font-size: 12px; text-decoration: none;}
+.yhlink13 { font-family: Arial, Helvetica, Geneva; font-size: 13px; text-decoration: none;}
+.yhlink14 { font-family: Arial, Helvetica, Geneva; font-size: 14px; text-decoration: none;}
+
+.yhgrey10 { font-family: Arial, Helvetica, Geneva; font-size: 10px; color:#999999; text-decoration: none }
+.yhgrey11 { font-family: Arial, Helvetica, Geneva; font-size: 11px; color:#999999; text-decoration: none }
+.yhgrey12 { font-family: Arial, Helvetica, Geneva; font-size: 12px; color:#999999; text-decoration: none }
+.yhgrey13 { font-family: Arial, Helvetica, Geneva; font-size: 13px; color:#999999; text-decoration: none }
+.yhgrey14 { font-family: Arial, Helvetica, Geneva; font-size: 14px; color:#999999; text-decoration: none }
+
+A:hover {color: #9F0000; text-decoration: underline; }
+
+
+
+.tlink { font-family: Verdana, Geneva, Arial; font-size: 10px; color: #FFFFFF; text-decoration: none; }
+A:hover.tlink { color:#FFFF66; text-decoration: underline; }
+.tsep { font-family: Arial, Geneva; font-size: 10px; color: #FFFFFF; }
+.spacer1 { font-family: Arial, Geneva; font-size: 1px }
+.spacer2 { font-family: Arial, Geneva; font-size: 2px }
+.spacer4 { font-family: Arial, Geneva; font-size: 4px }
+.spacer6 { font-family: Arial, Geneva; font-size: 6px }
+.spacer8 { font-family: Arial, Geneva; font-size: 8px }
+.bnav { font-family: Verdana, Geneva, Arial; font-size: 12px; font-weight: bold; text-decoration: none; color: #FFFFFF; }
+.bnav2 { font-family: Verdana, Geneva, Arial; font-size: 12px; text-decoration: none; color: #FFFFFF; }
+.bnavsep { font-family: Verdana, Geneva, Arial; font-size: 11px; color: #FFFFFF; }
+.v10 { font-family: Verdana, Geneva; font-size: 10px; }
+.tsquirt { font-family: Arial, Geneva; font-size: 11px; color: #FFFFFF; }
+.efree { font-family: Arial Black, Arial, Geneva; font-size: 20px; color: #CC3300; }
+.esignup { font-family: Verdana, Geneva, Arial; font-size: 13px; }
+.v11 { font-family: Verdana, Geneva; font-size: 11px; }
+.sphead { font-family: Verdana, Geneva, Arial; font-size: 13px; font-weight: bold; color: #FFFFCC; }
+.spdeck { font-family: Verdana, Geneva, Arial; font-size: 11px; }
+.spurl { font-family: Verdana, Geneva, Arial; font-size: 11px; color: #333399; }
+.bread { font-family: Tahoma, Verdana, Arial, Helvetica; font-size: 10px; font-weight: bold; color: #FF7700; text-decoration: none; line-height: 15px}
+.breadb { font-family: Tahoma, Verdana, Arial, Helvetica; font-size: 10px; color: #EEEEEE; text-decoration: none; font-weight: bold; line-height: 15px}
+
+.yhpollheader { font-family: Tahoma, Arial, Helvetica; font-size: 24px; font-weight: bold; color: #ffffff; text-decoration: none}
+
+.yhlink11gray { font-family: Arial, Helvetica, Geneva; font-size: 11px; text-decoration: none; color: #666666}
+
+.yhlink12gray { font-family: Arial, Helvetica, Geneva; font-size: 12px; text-decoration: none; color: #666666}
+
+.ggheader1 { font-family: Tahoma, Arial, Geneva, Helvetica; font-size: 22px; font-weight: bold; text-decoration: none}
+.ggheader2 { font-family: Tahoma, Arial, Geneva, Helvetica; font-size: 20px; font-weight: bold; text-decoration: none}
+.ggheader3 { font-family: Tahoma, Arial, Geneva, Helvetica; font-size: 18px; font-weight: bold; text-decoration: none}
+.ggheader4 { font-family: Tahoma, Arial, Geneva, Helvetica; font-size: 16px; font-weight: bold; text-decoration: none}
+.ggheader5 { font-family: Tahoma, Arial, Geneva, Helvetica; font-size: 14px; font-weight: bold; text-decoration: none}
+
+.sidenav1 { font-family: Arial, Helvetica, Geneva; font-size: 12px; font-weight: bold; text-decoration: none}
+.sidenav2 { font-family: Arial, Helvetica, Geneva; font-size: 11px; font-weight: bold; text-decoration: none}
+
