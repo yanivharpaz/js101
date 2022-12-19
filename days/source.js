@@ -14,10 +14,21 @@ function dateToNumber(date) {
     return parseInt(date_str);
 }
 
+function clean_width(current_day_counter, period_length) {
+    var result = Math.round(current_day_counter / period_length * 100)
+    console.log(`clean_width: ${result}`);
+    if (result > 100) {
+        result = 100;
+    }
+    console.log(`clean_width final: ${result}`);
+
+    return result;
+}
+
 function main() {
 
-    let period_length      = 42;
-    let long_period_length = 84;
+    let period_length      = 56;
+    let long_period_length = 91;
     let line_break         = 7;
     let completed_bgcolor  = "#559900";
     let today_bgcolor      = "#99cc00";
@@ -68,7 +79,7 @@ function main() {
 
     document.write('</tr>');
     progress_table_row =  `<tr><td bgcolor="${togo_long_bgcolor}" colspan="7">`;
-    progress_table_row += `<table style="width:${Math.round(current_day_counter / period_length * 100)}%"`;
+    progress_table_row += `<table style="width:${clean_width(current_day_counter, period_length)}%"`;
     progress_table_row += `bgcolor=${completed_bgcolor}><td>&nbsp;</td></table></td></tr>`;
     document.write(progress_table_row);
 }
